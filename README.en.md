@@ -2,47 +2,47 @@
 
 # 周峻锋 / ZJPex
 
-2027 届 · AI 应用 / Agent 开发
+Class of 2027 · AI applications / Agent development
 
-聚焦 Agent 工作流、工具契约、状态与异常处理、任务评测和模型路由，把模型能力推进为可交付、可验证的系统。
+Building deliverable, verifiable AI systems through Agent workflows, tool contracts, state and error handling, task evaluation, and model routing.
 
-[完整作品集 / Portfolio](https://zjpex.github.io/AgentCraft_Portfolio/) · [English](README.en.md)
+[完整作品集 / Portfolio](https://zjpex.github.io/AgentCraft_Portfolio/) · [中文版](README.md)
 
 <img src="assets/agent-machine.png" alt="AI Agent 任务处理装置 / AI Agent machine" width="620">
 
-## 精选项目
+## Selected projects
 
 ### [AlphaPilot](https://github.com/ZJPex/AlphaPilot)
 
-**项目定位** · 智能量化投研与策略分析工作台。
+**Position** · An AI workspace for quantitative research and strategy analysis.
 
-**个人工作** · 个人开发：Agent / Skills 编排、行情服务与产物验证。
+**My work** · Personal project: Agent / Skills orchestration, market data services, and artifact validation.
 
-**核心挑战** · 串联自然语言投研的取数、生成与验证。
+**Challenge** · Connecting data retrieval, generation, and validation for natural-language research.
 
-**交付结果** · 生成真实行情分析页，保留来源、运行与评测记录。
+**Delivery** · Market-data analysis pages with traceable sources, execution records, and evaluations.
 
 ### [LLMRouter](https://github.com/ZJPex/LLMRouter)
 
-**项目定位** · 本地大模型路由与管理平台。
+**Position** · A local LLM routing and management platform.
 
-**个人工作** · 个人开发：Rust 网关、React 管理端、协议路由与访问治理。
+**My work** · Personal project: Rust gateway, React console, protocol routing, and access governance.
 
-**核心挑战** · 统一 Anthropic / OpenAI 协议，处理流式 Tool Use 与故障切换。
+**Challenge** · Unifying Anthropic / OpenAI protocols, streaming tool use, and failover.
 
-**交付结果** · 统一模型接入、权限配额、请求追踪与健康检查。
+**Delivery** · Unified model access, permissions and quotas, request tracing, and health checks.
 
 <!-- contributions:start -->
 
-## 开源贡献
+## Open source
 
-**13 个已合并 PR · 4 个上游仓库**
+**13 merged PRs · 4 upstream repositories**
 
-仅统计 ZJPex 提交并合并到外部公开仓库的 PR。
+Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
 <!-- featured:start -->
 <!-- featured-selection: 6c15ec9ce0e4093a00dcf088ef6cc3cdaa8840a43cfbaeecf6a0eb06291dc08a 97d440ce15541472abe5b05d515dd85e36bc82a01f436baf2685f102cab64954 a5400c06a95b83621e7ef5bf8be8844d5c2225910d9349ba487834ba7917fb32 -->
-### 代表性贡献
+### Selected contributions
 
 - [makecindy&#47;cindy#3043](https://github.com/makecindy/cindy/pull/3043) — fix&#40;claude&#45;code&#41;&#58; preflight subagent model access · 2026-08-19
 - [makecindy&#47;cindy#2890](https://github.com/makecindy/cindy/pull/2890) — fix&#40;responses&#45;chat&#45;bridge&#41;&#58; compact oversized exec descriptions · 2026-08-18
@@ -51,7 +51,7 @@
 <!-- featured:end -->
 
 <details>
-<summary>展开完整已合并贡献目录</summary>
+<summary>All merged contributions</summary>
 
 - [bytedance&#47;deer&#45;flow#5947](https://github.com/bytedance/deer-flow/pull/5947) — feat&#58; add bounded JSON syntax acceptance criteria · 2026-09-28
 - [bytedance&#47;deer&#45;flow#5927](https://github.com/bytedance/deer-flow/pull/5927) — feat&#58; add optional message&#45;role filtering to history&#95;search · 2026-09-27
