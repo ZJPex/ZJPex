@@ -44,15 +44,16 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
 <!-- featured:start -->
 <!-- featured-selection: 6c15ec9ce0e4093a00dcf088ef6cc3cdaa8840a43cfbaeecf6a0eb06291dc08a 97d440ce15541472abe5b05d515dd85e36bc82a01f436baf2685f102cab64954 a5400c06a95b83621e7ef5bf8be8844d5c2225910d9349ba487834ba7917fb32 b08fd6b2ea610afc9e174d061591e8f714cb1c59a18bc16ea9d42026f6be135d e774a51075e3935e654592028cb42749f80f4207d6becbcbe7ad0220964dff23 e499f3cbaff2a6cf9777e04b1e1e43e5581192ce1b65c2e652d023d53348fb2b -->
-<!-- project-manual: {"678f85c4492c1e55d2cd2180f5830dbb327a7f5868efb93f6afdbd237ceb0e67": ["Fixed forced scrolling during Partner chat streaming so users can review earlier messages&#46;", 2], "7ce5cfc208e27666d90652b41f81a3da4dd28e41534a087f53c8f1e7d3a09314": ["Clarified bilingual roast prompts to avoid treating annual contribution totals as PR counts&#46;", 1], "b71d171950aadd51241167c0112ee464f2eee734bc1d2457a6714fd5e0ab28ac": ["Added bounded JSON syntax acceptance criteria and stable pagination for historical uploads&#46;", 2], "e8cc467aa7be05e0c7903b7211267c2cf66f106a9d1a60e6e42f90aef6e0b7bf": ["Added subagent model access preflight and compacted oversized tool descriptions in the protocol bridge&#46;", 2]} -->
+<!-- project-manual: {"678f85c4492c1e55d2cd2180f5830dbb327a7f5868efb93f6afdbd237ceb0e67": ["Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46;", 2], "7ce5cfc208e27666d90652b41f81a3da4dd28e41534a087f53c8f1e7d3a09314": ["Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46;", 1], "b71d171950aadd51241167c0112ee464f2eee734bc1d2457a6714fd5e0ab28ac": ["Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46;", 2], "e8cc467aa7be05e0c7903b7211267c2cf66f106a9d1a60e6e42f90aef6e0b7bf": ["Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46;", 2]} -->
+<!-- project-summary-revisions: {"678f85c4492c1e55d2cd2180f5830dbb327a7f5868efb93f6afdbd237ceb0e67": 1, "7ce5cfc208e27666d90652b41f81a3da4dd28e41534a087f53c8f1e7d3a09314": 1, "b71d171950aadd51241167c0112ee464f2eee734bc1d2457a6714fd5e0ab28ac": 1, "e8cc467aa7be05e0c7903b7211267c2cf66f106a9d1a60e6e42f90aef6e0b7bf": 1} -->
 ### Selected contributions
 
 | Project / Stars | Merged | Contribution | Representative PRs |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83204 | 5 | Added bounded JSON syntax acceptance criteria and stable pagination for historical uploads&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
-| [cindy](https://github.com/makecindy/cindy)<br>★ 2835 | 5 | Added subagent model access preflight and compacted oversized tool descriptions in the protocol bridge&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40489 | 2 | Fixed forced scrolling during Partner chat streaming so users can review earlier messages&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
-| [ghfind](https://github.com/hikariming/ghfind)<br>★ 237 | 1 | Clarified bilingual roast prompts to avoid treating annual contribution totals as PR counts&#46; | [#210](https://github.com/hikariming/ghfind/pull/210) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83205 | 5 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [cindy](https://github.com/makecindy/cindy)<br>★ 2835 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40492 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [ghfind](https://github.com/hikariming/ghfind)<br>★ 237 | 1 | Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
 
@@ -95,23 +96,5 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 </details>
 
 <!-- merged-details:end -->
-
-<!-- unmerged:start -->
-<details>
-<summary>Unmerged contributions</summary>
-
-Not included in merged totals or representative work.
-
-- [bytedance&#47;deer&#45;flow#5954](https://github.com/bytedance/deer-flow/pull/5954) — fix&#58; preserve existing task notes during parallel additions · **Open**
-- [bytedance&#47;deer&#45;flow#6008](https://github.com/bytedance/deer-flow/pull/6008) — feat&#58; return hit&#45;centered history search excerpts with source offsets · **Open**
-- [makecindy&#47;cindy#2313](https://github.com/makecindy/cindy/pull/2313) — fix&#40;desktop&#41;&#58; isolate Ghost Skills by profile · **Open**
-- [makecindy&#47;cindy#2782](https://github.com/makecindy/cindy/pull/2782) — fix&#40;desktop&#41;&#58; keep Codex subagent model selection native · **Open**
-- [makecindy&#47;cindy#2936](https://github.com/makecindy/cindy/pull/2936) — fix&#40;orca&#41;&#58; guide safe Code Mode text arguments · **Open**
-- [makecindy&#47;cindy#4232](https://github.com/makecindy/cindy/pull/4232) — feat&#40;project&#45;context&#41;&#58; 支持使用 Codex 维护项目知识 · **Open**
-- [bytedance&#47;deer&#45;flow#5952](https://github.com/bytedance/deer-flow/pull/5952) — fix&#58; preserve existing task notes during parallel additions · **Closed without merging**
-- [HKUDS&#47;DeepTutor#1251](https://github.com/HKUDS/DeepTutor/pull/1251) — fix&#58; normalize Codex named&#45;function tool choice for Responses · **Closed without merging**
-
-</details>
-<!-- unmerged:end -->
 
 <!-- contributions:end -->
