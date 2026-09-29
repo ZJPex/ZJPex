@@ -1,4 +1,8 @@
-![ZJPex — AI / Agent](assets/banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg">
+  <img alt="ZJPex — AI / Agent" src="assets/banner.svg">
+</picture>
 
 # 周峻锋 / ZJPex
 
