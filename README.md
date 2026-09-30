@@ -38,7 +38,7 @@
 
 ## 开源贡献
 
-**13 个已合并 PR · 4 个上游仓库**
+**14 个已合并 PR · 4 个上游仓库**
 
 仅统计 ZJPex 提交并合并到外部公开仓库的 PR。
 
@@ -50,17 +50,18 @@
 
 | 项目及 Stars | 已合并数量 | 贡献内容 | 代表性 PR |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83259 | 5 | 完善 Agent 工作流中的上下文恢复&#12289;历史资料检索与产物验收&#65292;处理遗漏和边界情况&#12290; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83261 | 6 | 完善 Agent 工作流中的上下文恢复&#12289;历史资料检索与产物验收&#65292;处理遗漏和边界情况&#12290; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
 | [cindy](https://github.com/makecindy/cindy)<br>★ 2840 | 5 | 改进多 Agent 的模型接入&#12289;工具调用与异常处理&#65292;让执行边界和失败状态更清晰&#12290; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40531 | 2 | 改善流式对话的阅读体验&#65292;并增强 Codex 模型目录刷新时的版本兼容与失败处理&#12290; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40550 | 2 | 改善流式对话的阅读体验&#65292;并增强 Codex 模型目录刷新时的版本兼容与失败处理&#12290; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
 | [ghfind](https://github.com/hikariming/ghfind)<br>★ 239 | 1 | 澄清 AI 锐评的贡献统计口径&#65292;约束对贡献类型和仓库归属的无依据推断&#12290; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
 
 <!-- merged-details:start -->
 <details>
-<summary>bytedance&#47;deer&#45;flow · 5 个已合并 PR</summary>
+<summary>bytedance&#47;deer&#45;flow · 6 个已合并 PR</summary>
 
+- [bytedance&#47;deer&#45;flow#5954](https://github.com/bytedance/deer-flow/pull/5954) — fix&#58; preserve existing task notes during parallel additions · 2026-09-30
 - [bytedance&#47;deer&#45;flow#5947](https://github.com/bytedance/deer-flow/pull/5947) — feat&#58; add bounded JSON syntax acceptance criteria · 2026-09-28
 - [bytedance&#47;deer&#45;flow#5927](https://github.com/bytedance/deer-flow/pull/5927) — feat&#58; add optional message&#45;role filtering to history&#95;search · 2026-09-27
 - [bytedance&#47;deer&#45;flow#5570](https://github.com/bytedance/deer-flow/pull/5570) — feat&#40;tools&#41;&#58; add stable pagination to historical upload discovery · 2026-09-24
