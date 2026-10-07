@@ -50,9 +50,9 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
 | Project / Stars | Merged | Contribution | Representative PRs |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83466 | 8 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
-| [cindy](https://github.com/makecindy/cindy)<br>★ 2906 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40877 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83467 | 8 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [cindy](https://github.com/makecindy/cindy)<br>★ 2907 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40880 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
 | [ghfind](https://github.com/hikariming/ghfind)<br>★ 242 | 1 | Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
