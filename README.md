@@ -51,8 +51,8 @@
 | 项目及 Stars | 已合并数量 | 贡献内容 | 代表性 PR |
 | --- | ---: | --- | --- |
 | [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83567 | 10 | 完善 Agent 工作流中的上下文恢复&#12289;历史资料检索与产物验收&#65292;处理遗漏和边界情况&#12290; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
-| [cindy](https://github.com/makecindy/cindy)<br>★ 2965 | 5 | 改进多 Agent 的模型接入&#12289;工具调用与异常处理&#65292;让执行边界和失败状态更清晰&#12290; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40982 | 2 | 改善流式对话的阅读体验&#65292;并增强 Codex 模型目录刷新时的版本兼容与失败处理&#12290; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [cindy](https://github.com/makecindy/cindy)<br>★ 2966 | 5 | 改进多 Agent 的模型接入&#12289;工具调用与异常处理&#65292;让执行边界和失败状态更清晰&#12290; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 40985 | 2 | 改善流式对话的阅读体验&#65292;并增强 Codex 模型目录刷新时的版本兼容与失败处理&#12290; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
 | [ghfind](https://github.com/hikariming/ghfind)<br>★ 245 | 1 | 澄清 AI 锐评的贡献统计口径&#65292;约束对贡献类型和仓库归属的无依据推断&#12290; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
