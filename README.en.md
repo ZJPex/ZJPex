@@ -38,7 +38,7 @@ Building deliverable, verifiable AI systems through Agent workflows, tool contra
 
 ## Open source
 
-**18 merged PRs · 4 upstream repositories**
+**19 merged PRs · 4 upstream repositories**
 
 Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
@@ -50,17 +50,18 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
 | Project / Stars | Merged | Contribution | Representative PRs |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83579 | 10 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83581 | 11 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
 | [cindy](https://github.com/makecindy/cindy)<br>★ 2971 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 41027 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 41028 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
 | [ghfind](https://github.com/hikariming/ghfind)<br>★ 246 | 1 | Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
 
 <!-- merged-details:start -->
 <details>
-<summary>bytedance&#47;deer&#45;flow · 10 merged PRs</summary>
+<summary>bytedance&#47;deer&#45;flow · 11 merged PRs</summary>
 
+- [bytedance&#47;deer&#45;flow#6527](https://github.com/bytedance/deer-flow/pull/6527) — feat&#40;mcp&#41;&#58; filter background tasks by status · 2026-10-10
 - [bytedance&#47;deer&#45;flow#6492](https://github.com/bytedance/deer-flow/pull/6492) — fix&#40;subagents&#41;&#58; scope Go zero&#45;test summaries to individual packages · 2026-10-08
 - [bytedance&#47;deer&#45;flow#6443](https://github.com/bytedance/deer-flow/pull/6443) — feat&#40;memory&#41;&#58; add scoped fact lookup by ID · 2026-10-08
 - [bytedance&#47;deer&#45;flow#6422](https://github.com/bytedance/deer-flow/pull/6422) — fix&#40;agents&#41;&#58; bound structured tool&#45;output previews · 2026-10-07
