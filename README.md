@@ -38,7 +38,7 @@
 
 ## 开源贡献
 
-**19 个已合并 PR · 4 个上游仓库**
+**20 个已合并 PR · 4 个上游仓库**
 
 仅统计 ZJPex 提交并合并到外部公开仓库的 PR。
 
@@ -50,17 +50,18 @@
 
 | 项目及 Stars | 已合并数量 | 贡献内容 | 代表性 PR |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83639 | 11 | 完善 Agent 工作流中的上下文恢复&#12289;历史资料检索与产物验收&#65292;处理遗漏和边界情况&#12290; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83639 | 12 | 完善 Agent 工作流中的上下文恢复&#12289;历史资料检索与产物验收&#65292;处理遗漏和边界情况&#12290; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
 | [cindy](https://github.com/makecindy/cindy)<br>★ 2987 | 5 | 改进多 Agent 的模型接入&#12289;工具调用与异常处理&#65292;让执行边界和失败状态更清晰&#12290; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 41078 | 2 | 改善流式对话的阅读体验&#65292;并增强 Codex 模型目录刷新时的版本兼容与失败处理&#12290; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 41079 | 2 | 改善流式对话的阅读体验&#65292;并增强 Codex 模型目录刷新时的版本兼容与失败处理&#12290; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
 | [ghfind](https://github.com/hikariming/ghfind)<br>★ 251 | 1 | 澄清 AI 锐评的贡献统计口径&#65292;约束对贡献类型和仓库归属的无依据推断&#12290; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
 
 <!-- merged-details:start -->
 <details>
-<summary>bytedance&#47;deer&#45;flow · 11 个已合并 PR</summary>
+<summary>bytedance&#47;deer&#45;flow · 12 个已合并 PR</summary>
 
+- [bytedance&#47;deer&#45;flow#6008](https://github.com/bytedance/deer-flow/pull/6008) — feat&#58; return hit&#45;centered history search excerpts with source offsets · 2026-10-10
 - [bytedance&#47;deer&#45;flow#6527](https://github.com/bytedance/deer-flow/pull/6527) — feat&#40;mcp&#41;&#58; filter background tasks by status · 2026-10-10
 - [bytedance&#47;deer&#45;flow#6492](https://github.com/bytedance/deer-flow/pull/6492) — fix&#40;subagents&#41;&#58; scope Go zero&#45;test summaries to individual packages · 2026-10-08
 - [bytedance&#47;deer&#45;flow#6443](https://github.com/bytedance/deer-flow/pull/6443) — feat&#40;memory&#41;&#58; add scoped fact lookup by ID · 2026-10-08
