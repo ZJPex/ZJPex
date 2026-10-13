@@ -38,7 +38,7 @@ Building deliverable, verifiable AI systems through Agent workflows, tool contra
 
 ## Open source
 
-**23 merged PRs · 4 upstream repositories**
+**24 merged PRs · 4 upstream repositories**
 
 Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
@@ -50,17 +50,18 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
 | Project / Stars | Merged | Contribution | Representative PRs |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83780 | 15 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
-| [cindy](https://github.com/makecindy/cindy)<br>★ 3015 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 41239 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 83803 | 16 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [cindy](https://github.com/makecindy/cindy)<br>★ 3028 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 41281 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
 | [ghfind](https://github.com/hikariming/ghfind)<br>★ 250 | 1 | Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46; | [#210](https://github.com/hikariming/ghfind/pull/210) |
 
 <!-- featured:end -->
 
 <!-- merged-details:start -->
 <details>
-<summary>bytedance&#47;deer&#45;flow · 15 merged PRs</summary>
+<summary>bytedance&#47;deer&#45;flow · 16 merged PRs</summary>
 
+- [bytedance&#47;deer&#45;flow#6714](https://github.com/bytedance/deer-flow/pull/6714) — feat&#40;acceptance&#41;&#58; verify required CSV header columns · 2026-10-13
 - [bytedance&#47;deer&#45;flow#6712](https://github.com/bytedance/deer-flow/pull/6712) — fix&#40;sandbox&#41;&#58; enforce image byte limits during downloads · 2026-10-12
 - [bytedance&#47;deer&#45;flow#6676](https://github.com/bytedance/deer-flow/pull/6676) — fix&#40;tools&#41;&#58; bound deferred catalog regex execution · 2026-10-11
 - [bytedance&#47;deer&#45;flow#6659](https://github.com/bytedance/deer-flow/pull/6659) — feat&#40;tools&#41;&#58; add opt&#45;in literal keyword discovery · 2026-10-11
