@@ -44,16 +44,16 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 
 <!-- featured:start -->
 <!-- featured-selection: 6c15ec9ce0e4093a00dcf088ef6cc3cdaa8840a43cfbaeecf6a0eb06291dc08a 97d440ce15541472abe5b05d515dd85e36bc82a01f436baf2685f102cab64954 a5400c06a95b83621e7ef5bf8be8844d5c2225910d9349ba487834ba7917fb32 b08fd6b2ea610afc9e174d061591e8f714cb1c59a18bc16ea9d42026f6be135d e774a51075e3935e654592028cb42749f80f4207d6becbcbe7ad0220964dff23 e499f3cbaff2a6cf9777e04b1e1e43e5581192ce1b65c2e652d023d53348fb2b -->
-<!-- project-manual: {"678f85c4492c1e55d2cd2180f5830dbb327a7f5868efb93f6afdbd237ceb0e67": ["Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46;", 2], "7ce5cfc208e27666d90652b41f81a3da4dd28e41534a087f53c8f1e7d3a09314": ["Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46;", 1], "b71d171950aadd51241167c0112ee464f2eee734bc1d2457a6714fd5e0ab28ac": ["Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46;", 2], "e8cc467aa7be05e0c7903b7211267c2cf66f106a9d1a60e6e42f90aef6e0b7bf": ["Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46;", 2]} -->
+<!-- project-manual: {"678f85c4492c1e55d2cd2180f5830dbb327a7f5868efb93f6afdbd237ceb0e67": ["Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46;", 2], "7ce5cfc208e27666d90652b41f81a3da4dd28e41534a087f53c8f1e7d3a09314": ["Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46;", 1], "b71d171950aadd51241167c0112ee464f2eee734bc1d2457a6714fd5e0ab28ac": ["Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46;", 2], "e8cc467aa7be05e0c7903b7211267c2cf66f106a9d1a60e6e42f90aef6e0b7bf": ["Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46;", 2], "ece919abcf8686bd2244face7afe01f73ef8174a6d9e73855b44b8e0566f6dad": ["Merged changes; see PR details.", 0]} -->
 <!-- project-summary-revisions: {"678f85c4492c1e55d2cd2180f5830dbb327a7f5868efb93f6afdbd237ceb0e67": 1, "7ce5cfc208e27666d90652b41f81a3da4dd28e41534a087f53c8f1e7d3a09314": 1, "b71d171950aadd51241167c0112ee464f2eee734bc1d2457a6714fd5e0ab28ac": 1, "e8cc467aa7be05e0c7903b7211267c2cf66f106a9d1a60e6e42f90aef6e0b7bf": 1} -->
 ### Selected contributions
 
 | Project / Stars | Merged | Contribution | Representative PRs |
 | --- | ---: | --- | --- |
-| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 84968 | 16 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
-| [cindy](https://github.com/makecindy/cindy)<br>★ 9211 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 54844 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
-| [ghfind](https://github.com/hikariming/ghfind)<br>★ 282 | 1 | Clarified contribution metrics in AI roast prompts to constrain unsupported inferences about activity types and repository ownership&#46; | [#210](https://github.com/hikariming/ghfind/pull/210) |
+| [deer&#45;flow](https://github.com/bytedance/deer-flow)<br>★ 84982 | 16 | Improved context recovery&#44; historical data retrieval&#44; and deliverable checks in agent workflows&#44; addressing omissions and edge cases&#46; | [#5947](https://github.com/bytedance/deer-flow/pull/5947)<br>[#5570](https://github.com/bytedance/deer-flow/pull/5570) |
+| [cindy](https://github.com/makecindy/cindy)<br>★ 9249 | 5 | Improved model access&#44; tool calls&#44; and error handling across agents to clarify execution boundaries and failure states&#46; | [#3043](https://github.com/makecindy/cindy/pull/3043)<br>[#2890](https://github.com/makecindy/cindy/pull/2890) |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor)<br>★ 54985 | 2 | Improved the reading experience in streaming chat and version compatibility and failure handling when refreshing the Codex model catalog&#46; | [#704](https://github.com/HKUDS/DeepTutor/pull/704) |
+| [ghfind](https://github.com/FindAny/ghfind)<br>★ 282 | 1 | Merged changes; see PR details. | Not selected |
 
 <!-- featured:end -->
 
@@ -100,9 +100,9 @@ Public upstream PRs authored by ZJPex and merged; own repositories excluded.
 </details>
 
 <details>
-<summary>hikariming&#47;ghfind · 1 merged PR</summary>
+<summary>FindAny&#47;ghfind · 1 merged PR</summary>
 
-- [hikariming&#47;ghfind#210](https://github.com/hikariming/ghfind/pull/210) — fix&#40;roast&#41;&#58; 修正年度贡献数的错误归因 · 2026-09-02
+- [FindAny&#47;ghfind#210](https://github.com/FindAny/ghfind/pull/210) — fix&#40;roast&#41;&#58; 修正年度贡献数的错误归因 · 2026-09-02
 
 </details>
 
